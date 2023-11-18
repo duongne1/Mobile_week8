@@ -1,0 +1,111 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "username": "Duong",
+      "password": "123",
+      "img": "https://res.cloudinary.com/dpxgh1qfh/image/upload/v1699622450/duong_ntrorq.png",
+      "todo": [
+        {
+          "id": 2,
+          "work": "Làm bài tập Mobile",
+          "priority": "high"
+        },
+        {
+          "id": 3,
+          "work": "Đi ngủ sớm",
+          "priority": "high"
+        },
+        {
+          "id": 4,
+          "work": "Đi dạo bộ",
+          "priority": "low"
+        },
+        {
+          "id": 7,
+          "work": "Tập thể dục",
+          "priority": "low"
+        },
+        {
+          "id": 8,
+          "work": "Học Lập Trình WWW",
+          "priority": "high"
+        },
+        {
+          "id": 9,
+          "work": "Đi học",
+          "priority": "medium"
+        },
+        {
+          "id": 10,
+          "work": "Đi câu cá",
+          "priority": "medium"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "username": "An",
+      "password": "123",
+      "img": "",
+      "todo": [
+        {
+          "id": 1,
+          "work": "Đá banh",
+          "priority": "medium"
+        },
+        {
+          "id": 2,
+          "work": "Học Tiếng Anh",
+          "priority": "high"
+        }
+      ]
+    },
+    {
+      "username": "Chanh",
+      "password": "123",
+      "img": "",
+      "todo": [
+        {
+          "id": 1,
+          "work": "Đá banh",
+          "priority": "medium"
+        },
+        {
+          "id": 2,
+          "work": "Học Tiếng Anh",
+          "priority": "high"
+        },
+        {
+          "id": 3,
+          "work": "Đánh cầu lông",
+          "priority": "medium"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "username": "Duy",
+      "password": "123",
+      "img": "",
+      "todo": [
+        {
+          "id": 1,
+          "work": "Tập thể dục",
+          "priority": "medium"
+        },
+        {
+          "id": 2,
+          "work": "Học mobile",
+          "priority": "high"
+        },
+        {
+          "id": 3,
+          "work": "Đá banh",
+          "priority": "medium"
+        }
+      ],
+      "id": 4
+    }
+  ]
+}
